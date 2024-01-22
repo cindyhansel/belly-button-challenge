@@ -34,11 +34,17 @@ Use otu_ids for the marker colors.
 
 Use otu_labels for the text values.
 
+#### Display Sample Metadata
+
 Display the sample metadata, i.e., an individual's demographic information.
 
 Display each key-value pair from the metadata JSON object somewhere on the page.
 
-Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
+#### Update Dashboard upon Dropdown Selection
+
+Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard.
+
+#### Deploy to Git Page
 
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
